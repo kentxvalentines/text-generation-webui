@@ -31,3 +31,5 @@ wandb
 /docker-compose.yml
 /Dockerfile
 .env
+
+start_windows.log
