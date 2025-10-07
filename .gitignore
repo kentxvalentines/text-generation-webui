@@ -33,3 +33,4 @@ wandb
 .env
 
 start_windows.log
+CMD_FLAGS.TXT
